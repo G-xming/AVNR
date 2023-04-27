@@ -1,0 +1,55 @@
+body 
+{
+    background-color: #141414;
+}
+
+a, p, h2
+{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.introduction .header
+{
+    margin-top: 15px;
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.introduction .comment
+{
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.mypicks .header, .finished .header, .notfinished .header, .review .header
+{
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: left;
+    margin-left: 30px;
+    text-decoration: underline;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+
+.mypicks p, .finished p, .notfinished p, .review p
+{
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 30px;
+    color: #fff;
+    font-size: 22px;
+}
